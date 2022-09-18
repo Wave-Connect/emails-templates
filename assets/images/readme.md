@@ -6,4 +6,4 @@ This tool can convert links easily: https://sites.google.com/site/gdocs2direct/
 
 ## Links
 - Logo - Standard - width 200: https://drive.google.com/uc?export=download&id=1uDFNWBY2HduvGYEAxdYW2yOsYqHZLtzL
-- Logo - Inverse - width 200: https://sites.google.com/site/gdocs2direct/
+- Logo - Inverse - width 200: https://drive.google.com/uc?export=download&id=1uUzSoZCOgT2OOZj30Vnv14URkobhM8pW
